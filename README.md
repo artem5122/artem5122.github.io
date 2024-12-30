@@ -7,3 +7,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 Another change on remote master
+
+And again another line for educational purposes
